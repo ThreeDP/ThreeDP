@@ -3,6 +3,6 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
   
-### :alien: Olá meu nome é Davy!!
+### Olá meu nome é :duck: :duck:
 
 :basketball: Basquete de lazer!
