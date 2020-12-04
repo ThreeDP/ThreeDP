@@ -1,6 +1,9 @@
+<Span>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)]
+  
 ### :alien: Olá meu nome é Davy!!
 
-<Span>
+
 :basketball: Gosto de praticar um pouco de basquete.
 
 <!--
