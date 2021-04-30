@@ -4,8 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
   
 # Davy Paulino
-> Estudante do Instituto Federal de São Paulo, estudando atualmente python com foco em algoritmos, estrutura de dados, webscrapping e cybersecurity.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
+> Estudante do Instituto Federal de São Paulo, estudando atualmente python com foco em algoritmos, estrutura de dados, webscrapping e cybersecurity.
+
 
 ### :book: Habilidades
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
