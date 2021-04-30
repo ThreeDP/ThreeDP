@@ -5,6 +5,7 @@
   
 # Davy Paulino
 > Estudante do Instituto Federal de São Paulo, estudando atualmente python com foco em algoritmos, estrutura de dados, webscrapping e cybersecurity.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
 
 ### :book: Habilidades
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -12,7 +13,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-[#2772](https://github.com/badges/shields/issues/2772).
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
 
 
 ### :triangular_flag_on_post: Lazer
