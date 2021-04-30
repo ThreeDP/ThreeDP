@@ -7,11 +7,12 @@
 > Estudante do Instituto Federal de São Paulo, estudando atualmente python com foco em algoritmos, estrutura de dados, webscrapping e cybersecurity.
 
 ### :book: Habilidades
-<img alt="Python" src="https://img.shields.io/badge/Python-intermediario-f3333a?style=flat-square&logo=python&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-intermediario-f3333a?style=flat-square&logo=Git&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-intermediario-f3333a?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-intermediate-f3333a?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-basic-eeec00?style=flat-square&logo=css3&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-basic-eeec00?style=flat-square&logo=bootstrap&logoColor=white" />
 
 ### :triangular_flag_on_post: Lazer
  - :tent: Acampar.
