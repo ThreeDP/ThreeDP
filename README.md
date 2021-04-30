@@ -6,9 +6,10 @@
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-f59522?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 > Estudante do Instituto Federal de São Paulo, estudando atualmente python com foco em algoritmos, estrutura de dados, webscrapping e cybersecurity.
 
-### :book: Habilidades
+### :book: Habilidades em Linguagens
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
+<img alt="mysql" src="https://img.shields.io/badge/Mysql-intermediate-f3333a?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-intermediate-f3333a?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-basic-eeec00?style=flat-square&logo=css3&logoColor=white" />
