@@ -4,9 +4,9 @@
 # Davy Paulino
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-f59522?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
-> Estudante do Instituto Federal de São Paulo, estudando atualmente python com foco em algoritmos, estrutura de dados, webscrapping e cybersecurity.
+> Student at the Federal Institute of São Paulo, currently studying python with a focus on algorithms, data structure, webscrapping and cybersecurity.
 
-### :book: Habilidades em Linguagens
+### :book: My language skills
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/Mysql-intermediate-f3333a?style=flat-square&logo=mysql&logoColor=white" />
@@ -16,6 +16,6 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-basic-eeec00?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="COBOL" src="https://img.shields.io/badge/COBOL-basic-eeec00?style=flat-square&logo=cobol&logoColor=white" />
 
-### :triangular_flag_on_post: Lazer
- - :tent: Acampar.
- - :basketball: Basquete!
+### :triangular_flag_on_post: My leisure
+ - :tent: Camp!
+ - :basketball: basketball!
