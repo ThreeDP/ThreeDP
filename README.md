@@ -3,6 +3,12 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
   
-### Olá!! meu nome é Davy Paulino.
+# Davy Paulino
+> Estudante do Instituto Federal de São Paulo, estudando atualmente python com foco em algoritmos, estrutura de dados, webscrapping e cybersecurity.
 
-:basketball: Basquete de lazer!
+
+
+
+### :triangular_flag_on_post: Lazer
+:tent: Acampar.
+:basketball: Basquete!
