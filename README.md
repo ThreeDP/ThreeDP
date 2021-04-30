@@ -13,6 +13,7 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-intermediate-f3333a?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-basic-eeec00?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-basic-eeec00?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="COBOL" src="https://img.shields.io/badge/COBOL-basic-eeec00?style=flat-square&logo=cobol&logoColor=white" />
 
 ### :triangular_flag_on_post: Lazer
  - :tent: Acampar.
