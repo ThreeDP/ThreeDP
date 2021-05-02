@@ -9,14 +9,12 @@
 ***
 
 <br>
-<br>
 
 ### :computer: Profile | Programming challenges
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-f59522?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 > My profiles in programming and hacking communities
 ***
 
-<br>
 <br>
 
 ### :floppy_disk: My language skills
@@ -33,7 +31,6 @@
 
 ***
 
-<br>
 <br>
 
 ### :vhs: My leisure
