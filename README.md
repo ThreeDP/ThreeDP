@@ -33,6 +33,6 @@
 
 <br>
 
-### :vhs: My leisure
+### :vhs: My Hobbies
  - :tent: Camp!
  - :basketball: basketball!
