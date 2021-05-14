@@ -8,14 +8,10 @@
 > Student at the Federal Institute of São Paulo, currently studying python with a focus on algorithms, data structure, webscrapping and cybersecurity.
 ***
 
-<br>
-
 ### :computer: Profile | Programming challenges
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-f59522?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 > My profiles in programming and hacking communities
 ***
-
-<br>
 
 ### :floppy_disk: My language skills
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
@@ -30,8 +26,6 @@
 <img alt="COBOL" src="https://img.shields.io/badge/COBOL-basic-eeec00?style=flat-square&logo=cobol&logoColor=white" />
 
 ***
-
-<br>
 
 ### :vhs: My Hobbies
  - :tent: Camp!
