@@ -10,9 +10,10 @@
 ***
 
 ### :computer: Profile | Programming challenges
-[![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-f59522?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
+[![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 [![The HackerRank](https://img.shields.io/badge/HackerRank-Interview%20Preparation-10BF21?style=flat-square&logo)](https://www.hackerrank.com/davy_paulino)
-[![Try Hack Me](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20Training-F23D5E?style=flat-square&logo)](https://tryhackme.com/p/threedp.png)
+[![Try Hack Me](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20Training-10BF21?style=flat-square&logo)](https://tryhackme.com/p/threedp.png)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Organization-10BF21?style=flat-square&logo)](https://www.freecodecamp.org/Threedp)
 > My profiles in programming and hacking communities
 ***
 
