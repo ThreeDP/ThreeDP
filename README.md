@@ -18,15 +18,20 @@
 ***
 
 ### :floppy_disk: My language skills
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-avançado-10BF21?style=flat-square&logo=css3&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-avançado-10BF21?style=flat-square&logo=html5&logoColor=white" />
+> Accessibility, Animation, Responsive Web, BEM pattern and others.
+
+<br>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-intermediate-F3333a?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
 <img alt="mssql" src="https://img.shields.io/badge/Microsoft%20sql%20Sever-intermediate-f3333a?style=flat-square&logo=msqls&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-intermediate-f3333a?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-basic-eeec00?style=flat-square&logo=css3&logoColor=white" />
+  
 <img alt="Csharp" src="https://img.shields.io/badge/CSharp-basic-eeec00?style=flat-square&logo=cs&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/development-basic-eeec00?style=flat-square&logo=c&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-basic-eeec00?style=flat-square&logo=bootstrap&logoColor=white" />
+
 <img alt="COBOL" src="https://img.shields.io/badge/COBOL-basic-eeec00?style=flat-square&logo=cobol&logoColor=white" />
 
 ***
