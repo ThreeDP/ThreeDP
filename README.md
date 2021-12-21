@@ -18,9 +18,9 @@
 ***
 
 ### :floppy_disk: My language skills
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-avançado-10BF21?style=flat-square&logo=css3&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-avançado-10BF21?style=flat-square&logo=html5&logoColor=white" />
-> Accessibility, Animation, Responsive Web, BEM pattern and others.
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-advanced-10BF21?style=flat-square&logo=css3&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-advanced-10BF21?style=flat-square&logo=html5&logoColor=white" />
+<p>Accessibility, Animation, Responsive Web, BEM pattern and others.</p>
 
 <br>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-intermediate-F3333a?style=flat-square&logo=bootstrap&logoColor=white" />
