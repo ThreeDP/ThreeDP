@@ -26,6 +26,7 @@
   
 <img alt="Sass" src="https://img.shields.io/badge/Sass-intermediate-F3333a?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/JQuery-intermediate-F3333a?style=flat-square&logo=jquery&logoColor=white" />
+ <img alt="React.js" src="https://img.shields.io/badge/React.js-intermediate-F3333a?style=flat-square&logo=React&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-intermediate-F3333a?style=flat-square&logo=bootstrap&logoColor=white" />
 
 ### :abacus: Back-end skills
