@@ -26,11 +26,11 @@
   
 <img alt="Sass" src="https://img.shields.io/badge/Sass-intermediate-F3333a?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/JQuery-intermediate-F3333a?style=flat-square&logo=jquery&logoColor=white" />
- <img alt="React.js" src="https://img.shields.io/badge/React.js-intermediate-F3333a?style=flat-square&logo=React&logoColor=white" />
+<img alt="React.js" src="https://img.shields.io/badge/React.js-intermediate-F3333a?style=flat-square&logo=React&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-intermediate-F3333a?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-intermediate-f3333a?style=flat-square&logo=javascript&logoColor=white" />
 
 ### :abacus: Back-end skills
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-intermediate-f3333a?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
 <img alt="mssql" src="https://img.shields.io/badge/Microsoft%20sql%20Sever-intermediate-f3333a?style=flat-square&logo=msqls&logoColor=white" />
