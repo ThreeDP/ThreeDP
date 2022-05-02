@@ -6,7 +6,7 @@
 [![Behance](https://img.shields.io/badge/-Behance-0a66c2?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/Davy_Paulino)
 [![Credly](https://img.shields.io/badge/Credly-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/davy-paulino/badges)
 [![Coursera](https://img.shields.io/badge/Coursera-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.coursera.org/user/5e0b1e4a535e2994f39cc2e9fd2fe35d)
-> Cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, Programador Front-end, um bom conhecedor de técnicas e ferramentas design e apaixonado pela natureza.
+> Cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, Programador Front-end, um bom conhecedor de técnicas e ferramentas de design e apaixonado pela natureza.
 ***
 
 ## :computer: Me siga nas comunidades por ai!
