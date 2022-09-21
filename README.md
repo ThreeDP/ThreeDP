@@ -30,9 +30,9 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-intermediate-f3333a?style=flat-square&logo=javascript&logoColor=white" />
 
 ### :abacus: Back-end
+<img alt="C" src="https://img.shields.io/badge/C_language-intermediate-F3333a?style=flat-square&logo=c&logoColor=white" />
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/C_language-basic-F2CB05?style=flat-square&logo=c&logoColor=white" />
 <img alt="Shell" src="https://img.shields.io/badge/Shell-Basic-F2CB05?style=flat-square&logo=shell-script&logoColor=white" />
 
 ### :paperclip: Ferramentas
