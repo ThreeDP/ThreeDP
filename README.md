@@ -8,6 +8,11 @@
 [![Coursera](https://img.shields.io/badge/Coursera-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.coursera.org/user/5e0b1e4a535e2994f39cc2e9fd2fe35d)
 > Atualmente sou cadete na 42 São Paulo, estou cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo e formado em técnico em eletroeletrônica pela escola SENAI. Em busca de compreender o mundo dos bites e bytes, e sobre o quanto nós como sociedade podemos criar, desenvolver e evoluir quando trabalhamos em conjunto.
 ***
+<div align="start" >
+  <a href="https://github.com/ThreeDP/Libft" target="_blank">
+    <img src="https://raw.githubusercontent.com/ThreeDP/Libft/main/imgs/libftm.png" alt="Libft" width="100" height="100">
+  </a>
+</div>
 
 ## :computer: Me siga nas comunidades por ai!
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
