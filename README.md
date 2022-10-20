@@ -21,6 +21,8 @@
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Organization-10BF21?style=flat-square&logo)](https://www.freecodecamp.org/Threedp)
 ***
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threedp&layout=compact&theme=tokyonight)](https://github.com/threedp/github-readme-stats)
+
 ## :floppy_disk: O que continuamente estudo e tenho conhecimento
   
 ### :pager: Front-end
@@ -42,7 +44,7 @@
 
 ### :paperclip: Ferramentas
 <img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
-  
+
 ***
 
 ### :vhs: Meus Hobbies
