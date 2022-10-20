@@ -14,15 +14,19 @@
   </a>
 </div>
 
+
+
 ## :computer: Me siga nas comunidades por ai!
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 [![The HackerRank](https://img.shields.io/badge/HackerRank-Interview%20Preparation-10BF21?style=flat-square&logo)](https://www.hackerrank.com/davy_paulino)
 [![Try Hack Me](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20Training-10BF21?style=flat-square&logo)](https://tryhackme.com/p/threedp.png)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Organization-10BF21?style=flat-square&logo)](https://www.freecodecamp.org/Threedp)
 ***
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threedp&layout=compact&theme=tokyonight)](https://github.com/threedp/github-readme-stats)
-
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=threedp&layout=compact&theme=tokyonight" alt="Libft" height="150em">
+  <img src="https://badge42.vercel.app/api/v2/cl9hhx9hp00400gmjtv4jf33f/stats?cursusId=21&coalitionId=piscine" alt="Libft" height="150em">
+ </div>
+ 
 ## :floppy_disk: O que continuamente estudo e tenho conhecimento
   
 ### :pager: Front-end
