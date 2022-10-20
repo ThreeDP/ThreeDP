@@ -49,8 +49,3 @@
 ### :paperclip: Ferramentas
 <img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
 
-***
-
-### :vhs: Meus Hobbies
- - :tent: Acampar e viajar!
- - :basketball: Basquete com os amigos!
