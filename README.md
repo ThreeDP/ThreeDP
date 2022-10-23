@@ -2,6 +2,7 @@
 <Span>
   
 # Meu nome é **** *******
+![](https://komarev.com/ghpvc/?username=threeDP&color=blue&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
 [![Behance](https://img.shields.io/badge/-Behance-0a66c2?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/Davy_Paulino)
 [![Credly](https://img.shields.io/badge/Credly-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/davy-paulino/badges)
