@@ -6,8 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
 [![Behance](https://img.shields.io/badge/-Behance-0a66c2?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/Davy_Paulino)
 [![Credly](https://img.shields.io/badge/Credly-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/davy-paulino/badges)
-[![Coursera](https://img.shields.io/badge/Coursera-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.coursera.org/user/5e0b1e4a535e2994f39cc2e9fd2fe35d)
-> Atualmente sou cadete na 42 São Paulo, estou cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo e formado em técnico em eletroeletrônica pela escola SENAI. Em busca de compreender o mundo dos bites e bytes, e sobre o quanto nós como sociedade podemos criar, desenvolver e evoluir quando trabalhamos em conjunto.
+[![Coursera](https://img.shields.io/badge/Coursera-certificates-0a66c2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/user/5e0b1e4a535e2994f39cc2e9fd2fe35d)
+> Desenvolver tecnologias que resolvam problemas, e não que criem!
+Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, formado técnico em eletroeletrônica pela escola SENAI A. Jacob Lafer.
 ***
 <div align="start" >
   <a href="https://github.com/ThreeDP/Libft" target="_blank">
@@ -28,7 +29,7 @@
   <img src="https://badge42.vercel.app/api/v2/cl9hhx9hp00400gmjtv4jf33f/stats?cursusId=21&coalitionId=piscine" alt="Libft" height="150em">
  </div>
  
-## :floppy_disk: O que continuamente estudo e tenho conhecimento
+## :floppy_disk: O que continuamente estudo
   
 ### :pager: Front-end
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-advanced-10BF21?style=flat-square&logo=css3&logoColor=white" />
@@ -45,8 +46,10 @@
 <img alt="C" src="https://img.shields.io/badge/C_language-intermediate-F3333a?style=flat-square&logo=c&logoColor=white" />
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
-<img alt="Shell" src="https://img.shields.io/badge/Shell-Basic-F2CB05?style=flat-square&logo=shell-script&logoColor=white" />
+<img alt="Golang" src="https://img.shields.io/badge/Golang-Basic-F2CB05?style=flat-square&logo=Go&logoColor=white" />
+<img alt="Shell" src="https://img.shields.io/badge/Shell-Basic-F2CB05?style=flat-square&logo=sh&logoColor=white" />
 
 ### :paperclip: Ferramentas
 <img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-Basic-F2CB05?style=flat-square&logo=Docker&logoColor=white" />
 
