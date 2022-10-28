@@ -7,6 +7,7 @@
 [![Behance](https://img.shields.io/badge/-Behance-0a66c2?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/Davy_Paulino)
 [![Credly](https://img.shields.io/badge/Credly-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/davy-paulino/badges)
 [![Coursera](https://img.shields.io/badge/Coursera-certificates-0a66c2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/user/5e0b1e4a535e2994f39cc2e9fd2fe35d)
+[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dapaulin)
 > Desenvolver tecnologias que resolvam problemas, e não que criem!
 Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, formado técnico em eletroeletrônica pela escola SENAI A. Jacob Lafer.
 ***
