@@ -14,6 +14,8 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
 <div align="start" >
   <a href="https://github.com/ThreeDP/Libft" target="_blank">
     <img src="https://raw.githubusercontent.com/ThreeDP/Libft/main/imgs/libftm.png" alt="Libft" width="100" height="100">
+  </a>
+  <a href="https://github.com/ThreeDP/get_next_line" target="_blank">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/get_next_linem.png" alt="Get Next Line" width="100" height="100">
   </a>
 </div>
