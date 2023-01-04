@@ -23,8 +23,6 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
   </a>
 </div>
 
-ft_printfm.png
-
 ## :computer: Me siga nas comunidades por ai!
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 [![The HackerRank](https://img.shields.io/badge/HackerRank-Interview%20Preparation-10BF21?style=flat-square&logo)](https://www.hackerrank.com/davy_paulino)
