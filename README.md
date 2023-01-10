@@ -21,6 +21,9 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
   <a href="https://github.com/ThreeDP/ft_printf" target="_blank">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/ft_printfm.png" alt="Printf" width="100" height="100">
   </a>
+  <a href="https://github.com/ThreeDP/Born2BeRoot" target="_blank">
+    <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/born2beroot.png" alt="Born2BeRoot" width="100" height="100">
+  </a>
 </div>
 
 ## :computer: Me siga nas comunidades por ai!
