@@ -36,7 +36,7 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-intermediate-f3333a?style=flat-square&logo=javascript&logoColor=white" />
 
 ### :abacus: Back-end
-<img alt="C" src="https://img.shields.io/badge/C_language-intermediate-F3333a?style=flat-square&logo=c&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/C_language-advanced-10BF21?style=flat-square&logo=c&logoColor=white" />
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
 <img alt="Golang" src="https://img.shields.io/badge/Golang-Basic-F2CB05?style=flat-square&logo=Go&logoColor=white" />
