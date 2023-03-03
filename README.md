@@ -11,6 +11,13 @@
 > Desenvolver tecnologias que resolvam problemas, e não que criem!
 Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, formado técnico em eletroeletrônica pela escola SENAI A. Jacob Lafer.
 ***
+***
+<div align="center" >
+  <a href="https://github.com/ThreeDP/Libft" target="_blank" style="text-decoration: none">
+    <img src="https://raw.githubusercontent.com/ThreeDP/Libft/main/imgs/phase_onem.png" alt="phase one" width="100" height="100">
+  </a>
+</div>
+***
 <div align="start" >
   <a href="https://github.com/ThreeDP/Libft" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/Libft/main/imgs/libftm.png" alt="Libft" width="100" height="100">
@@ -27,11 +34,16 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
   <a href="https://github.com/ThreeDP/so_long" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/so_longm.png" alt="So Long" width="100" height="100">
   </a>
-  <a href="https://github.com/ThreeDP/so_long" target="_blank" style="text-decoration: none">
+  <a href="https://github.com/ThreeDP/pipex" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/pipexm.png" alt="Pipex" width="100" height="100">
   </a>
 </div>
-
+***
+<div align="start" >
+  <a href="https://github.com/ThreeDP/push_swap" target="_blank" style="text-decoration: none">
+    <img src="https://raw.githubusercontent.com/ThreeDP/Libft/main/imgs/push_swapm.png" alt="Push Swap" width="100" height="100">
+  </a>
+</div>
 ## :computer: Me siga nas comunidades por ai!
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 [![The HackerRank](https://img.shields.io/badge/HackerRank-Interview%20Preparation-10BF21?style=flat-square&logo)](https://www.hackerrank.com/davy_paulino)
