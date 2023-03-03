@@ -12,20 +12,23 @@
 Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, formado técnico em eletroeletrônica pela escola SENAI A. Jacob Lafer.
 ***
 <div align="start" >
-  <a href="https://github.com/ThreeDP/Libft" target="_blank">
+  <a href="https://github.com/ThreeDP/Libft" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/Libft/main/imgs/libftm.png" alt="Libft" width="100" height="100">
   </a>
-  <a href="https://github.com/ThreeDP/get_next_line" target="_blank">
+  <a href="https://github.com/ThreeDP/get_next_line" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/get_next_linem.png" alt="Get Next Line" width="100" height="100">
   </a>
-  <a href="https://github.com/ThreeDP/ft_printf" target="_blank">
+  <a href="https://github.com/ThreeDP/ft_printf" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/ft_printfm.png" alt="Printf" width="100" height="100">
   </a>
-  <a href="https://github.com/ThreeDP/Born2BeRoot" target="_blank">
+  <a href="https://github.com/ThreeDP/Born2BeRoot" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/born2beroot.png" alt="Born2BeRoot" width="100" height="100">
   </a>
-  <a href="https://github.com/ThreeDP/so_long" target="_blank">
+  <a href="https://github.com/ThreeDP/so_long" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/so_longm.png" alt="So Long" width="100" height="100">
+  </a>
+  <a href="https://github.com/ThreeDP/so_long" target="_blank" style="text-decoration: none">
+    <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/pipexm.png" alt="Pipex" width="100" height="100">
   </a>
 </div>
 
