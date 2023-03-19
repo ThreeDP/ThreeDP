@@ -35,10 +35,11 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
 <img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
 <img alt="Golang" src="https://img.shields.io/badge/Golang-Basic-F2CB05?style=flat-square&logo=Go&logoColor=white" />
-<img alt="Shell" src="https://img.shields.io/badge/Shell-Basic-F2CB05?style=flat-square&logo=sh&logoColor=white" />
+
 
 ### :paperclip: Ferramentas
 <img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
+<img alt="Shell" src="https://img.shields.io/badge/Shell-intermediate-f3333a?style=flat-square&logo=sh&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-Basic-F2CB05?style=flat-square&logo=Docker&logoColor=white" />
 
 ## :fire: Formação 42
