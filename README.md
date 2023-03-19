@@ -4,9 +4,6 @@
 # Meu nome é **** *******
 ![](https://komarev.com/ghpvc/?username=threeDP&color=blue&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
-[![Behance](https://img.shields.io/badge/-Behance-0a66c2?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/Davy_Paulino)
-[![Credly](https://img.shields.io/badge/Credly-certificates-0a66c2?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/davy-paulino/badges)
-[![Coursera](https://img.shields.io/badge/Coursera-certificates-0a66c2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/user/5e0b1e4a535e2994f39cc2e9fd2fe35d)
 > Desenvolver tecnologias que resolvam problemas, e não que criem!
 Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, formado técnico em eletroeletrônica pela escola SENAI A. Jacob Lafer.
 ***
@@ -14,9 +11,7 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
 ## :computer: Me siga nas comunidades por ai!
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dapaulin)
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
-[![The HackerRank](https://img.shields.io/badge/HackerRank-Interview%20Preparation-10BF21?style=flat-square&logo)](https://www.hackerrank.com/davy_paulino)
-[![Try Hack Me](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20Training-10BF21?style=flat-square&logo)](https://tryhackme.com/p/threedp.png)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Organization-10BF21?style=flat-square&logo)](https://www.freecodecamp.org/Threedp)
+  
 ***
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=threedp&layout=compact&theme=tokyonight" alt="Libft" height="150em">
