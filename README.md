@@ -4,15 +4,12 @@
 # Meu nome é **** *******
 ![](https://komarev.com/ghpvc/?username=threeDP&color=blue&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
+[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dapaulin)
+[![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
 > Desenvolver tecnologias que resolvam problemas, e não que criem!
 Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, formado técnico em eletroeletrônica pela escola SENAI A. Jacob Lafer.
 ***
 
-## :computer: Me siga nas comunidades por ai!
-[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dapaulin)
-[![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
-  
-***
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=threedp&layout=compact&theme=tokyonight" alt="Libft" height="150em">
  </div>
