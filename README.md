@@ -6,6 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davypaulinodsd/)
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dapaulin)
 [![URI Online Jungle](https://img.shields.io/badge/URI-Online%20Jungle-10BF21?style=flat-square&logo)](https://www.urionlinejudge.com.br/judge/pt/profile/529449)
+ [![Turing](https://img.shields.io/badge/Turing-profile-0a66c2?style=flat-square&logo)](https://matching.turing.com/developer-resume/4a3305462ba864bb0b3df249f520cc21a446ccf9bb69)
 > Desenvolver tecnologias que resolvam problemas, e não que criem!
 Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Sistemas Pelo Instituto Federal de São Paulo, formado técnico em eletroeletrônica pela escola SENAI A. Jacob Lafer.
 ***
