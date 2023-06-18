@@ -73,4 +73,10 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
   <a href="https://github.com/ThreeDP/push_swap" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/push_swapm.png" alt="Push Swap" width="60" height="60">
   </a>
+  <a href="https://github.com/ThreeDP/minishelly" target="_blank" style="text-decoration: none">
+      <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/minishellm.png" alt="Minishell" width="60" height="60">
+  </a>
+  <a href="https://github.com/ThreeDP/philo" target="_blank" style="text-decoration: none">
+      <img src="https://raw.githubusercontent.com/ThreeDP/ThreeDP/main/imgs/philosopherse.png" alt="Philosophers" width="60" height="60">
+  </a>
 </div>
