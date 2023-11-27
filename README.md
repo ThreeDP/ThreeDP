@@ -18,21 +18,19 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
 ## :floppy_disk: O que continuamente estudo
   
 ### :pager: Front-end
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-advanced-10BF21?style=flat-square&logo=css3&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-advanced-10BF21?style=flat-square&logo=html5&logoColor=white" />
-<p>Conheço técnicas de acessibilidade, animação em páginas web, resposividade, BEM pattern, produção de emails marketing e outros.</p>
-  
-<img alt="Sass" src="https://img.shields.io/badge/Sass-intermediate-F3333a?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/JQuery-intermediate-F3333a?style=flat-square&logo=jquery&logoColor=white" />
-<img alt="React.js" src="https://img.shields.io/badge/React.js-intermediate-F3333a?style=flat-square&logo=React&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-intermediate-F3333a?style=flat-square&logo=bootstrap&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-intermediate-f3333a?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/|-CSS3-358C4B?style=flat-square&logo=css3&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/|-HTML5-358C4B?style=flat-square&logo=html5&logoColor=white" />  
+<img alt="Sass" src="https://img.shields.io/badge/|-Sass-358C4B?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/|-JQuery-358C4B?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="React.js" src="https://img.shields.io/badge/|-React.js-358C4B?style=flat-square&logo=React&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/|-Bootstrap-358C4B?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/|-JavaScript-358C4B?style=flat-square&logo=javascript&logoColor=white" />
 
 ### :abacus: Back-end
-<img alt="C" src="https://img.shields.io/badge/C_language-advanced-10BF21?style=flat-square&logo=c&logoColor=white" />
-<img alt="Cplusplus" src="https://img.shields.io/badge/CPlusPlus-intermediate-f3333a?style=flat-square&logo=cpp&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-intermediate-f3333a?style=flat-square&logo=python&logoColor=white" />
-<img alt="Golang" src="https://img.shields.io/badge/Golang-Basic-F2CB05?style=flat-square&logo=Go&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/|-C%20language%20advanced-2C733D?style=flat-square&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/|-CPlusPlus-2C733D?style=flat-square&logo=c++&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/|-Python-2C733D?style=flat-square&logo=python&logoColor=white" />
+<img alt="Golang" src="https://img.shields.io/badge/|-Golang-2C733D?style=flat-square&logo=Go&logoColor=white" />
 
 
 ### :paperclip: Ferramentas
