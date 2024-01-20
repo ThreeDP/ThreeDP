@@ -34,9 +34,9 @@ Atualmente cadete na 42 São Paulo, cursando Análise e Desenvolvimento de Siste
 
 
 ### :paperclip: Ferramentas
-<img alt="Git" src="https://img.shields.io/badge/Git-intermediate-f3333a?style=flat-square&logo=Git&logoColor=white" />
-<img alt="Shell" src="https://img.shields.io/badge/Shell-intermediate-f3333a?style=flat-square&logo=sh&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-Basic-F2CB05?style=flat-square&logo=Docker&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/|-Git-2C733D?style=flat-square&logo=Git&logoColor=white" />
+<img alt="Shell" src="https://img.shields.io/badge/|-Shell-2C733D?style=flat-square&logo=zsh&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/|-Docker-2C733D?style=flat-square&logo=Docker&logoColor=white" />
 
 ## :fire: Formação 42
 > Para saber mais sobre os projetos desenvolvidos durante a formação da 42 basta clicar no icones.
