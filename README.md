@@ -9,7 +9,7 @@
 <img alt="Golang" src="https://img.shields.io/badge/|-Golang-2C733D?style=flat-square&logo=Go&logoColor=white" />
 > Para mais informações sobre minhas experiências recomendo acessar meu perfil no Linkedin, meus principais projetos estão loga abaixo!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-<img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeDP&layout=compact&langs_count=12&theme=outrun"/>
+<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=ThreeDP&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/>
+<img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeDP&layout=compact&langs_count=12&theme=outrun"/>
   
 ***
