@@ -48,7 +48,7 @@
 
 [<img align="left" height="94px" width="120px" style="margin-right: 40px" alt="" src="./bad_img/echo.webp"/>](https://github.com/ThreeDP/imersao_cloud)
 **C++ | Servidor de resposta Criptografada** \
-[**Echo TCP**](https://github.com/ThreeDP/imersao_cloud) • janeiro 2024 - janeiro 2024 </br>
+[**Echo TCP**](https://github.com/ThreeDP/echo-tcp) • janeiro 2024 - janeiro 2024 </br>
 `Implementação de comunicação TCP com criptografia de mensagem com O algoritmo de cifra Linear Congruencial Generator (LCG)`.
 
 ***
