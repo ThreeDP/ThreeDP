@@ -64,14 +64,12 @@
 **C++ e Git | Aplicação de programação orientada a objetos** \
 [**OOP com C++**](https://github.com/ThreeDP/cpp-piscine) • setembro 2023 - Outubro 2023 </br>
 `Desenvolvimentos de programas orientados a objetos em CPP, aplicação de herança, poliformismo, classes abstradas, interfaces, encapsulamento.`
-
 ***
 
 [<img align="left" height="94px" width="94px" style="margin-right: 40px" alt="" src="./42_badges/philosopherse.png"/>](https://github.com/ThreeDP/philo)
 **C, Git e Makefile | Threads e concorrência** \
 [**Philosophers**](https://github.com/ThreeDP/philo) • junho 2023 - Junho 2023 </br>
 `Solução para o clássico problema dos filosofos, aplicação de Threads e programação concorente.`
-
 ***
 
 [<img align="left" height="94px" width="94px" style="margin-right: 40px" alt="" src="./42_badges/so_longe.png"/>](https://github.com/ThreeDP/so_long)
